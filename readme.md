@@ -1,9 +1,11 @@
 List of useful cybersecurity links:
 
-https://github.com/kblowers?tab=stars
+GitHub projects I have starred: https://github.com/kblowers?tab=stars
 
-https://exchange.xforce.ibmcloud.com/
+CyberChef: https://gchq.github.io/CyberChef/
 
-https://www.microsoft.com/security/blog/
+IBM X-Force: https://exchange.xforce.ibmcloud.com/
 
-https://www.fireeye.com/blog/
+Microsoft Security Blog: https://www.microsoft.com/security/blog/
+
+FireEye Blogs: https://www.fireeye.com/blog/
