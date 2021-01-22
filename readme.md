@@ -9,3 +9,5 @@ IBM X-Force: https://exchange.xforce.ibmcloud.com/
 Microsoft Security Blog: https://www.microsoft.com/security/blog/
 
 FireEye Blogs: https://www.fireeye.com/blog/
+
+Gordon: https://gordon.mhg.ovh/ Information on observables
