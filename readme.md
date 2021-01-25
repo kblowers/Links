@@ -11,3 +11,5 @@ Microsoft Security Blog: https://www.microsoft.com/security/blog/
 FireEye Blogs: https://www.fireeye.com/blog/
 
 Gordon: https://gordon.mhg.ovh/ Information on observables
+
+MalVuln: https://malvuln.com/ Finding and exploiting vulnerable Malware
