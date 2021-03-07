@@ -15,3 +15,7 @@ Gordon: https://gordon.mhg.ovh/ Information on observables
 MalVuln: https://malvuln.com/ Finding and exploiting vulnerable Malware
 
 Crackmes.one
+
+Detect It Easy
+
+x32/64 dbg
